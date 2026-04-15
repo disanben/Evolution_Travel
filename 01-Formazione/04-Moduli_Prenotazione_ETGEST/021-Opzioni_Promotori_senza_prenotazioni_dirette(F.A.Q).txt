@@ -1,0 +1,78 @@
+Opzioni per Promotori senza Prenotazioni Dirette (F.A.Q)
+---------------------------------------------------------
+1. Il Ruolo dei PRP e la Natura del Servizio
+Chi può prendere le opzioni per conto dei promotori non abilitati?
+I PRP (Promotori di Riferimento Prodotto) che si sono resi disponibili volontariamente possono prendere opzioni per aiutare i colleghi non abilitati alle prenotazioni dirette e contribuire ad aumentare le vendite del network.
+
+I PRP sono obbligati ad accettare ogni richiesta di opzione?
+No. L'attività è svolta dai PRP volontariamente, in base alla loro disponibilità e senza alcun obbligo di accettare le richieste dei colleghi.
+
+2. Presupposti per la Richiesta
+Quando un promotore può chiedere a un PRP di prendere un'opzione?
+La richiesta può essere fatta solo dopo aver verificato la disponibilità con il fornitore ed esclusivamente in presenza di un preventivo già accettato dai clienti.
+
+Perché è necessario avere un preventivo accettato prima di chiedere l'opzione?
+Questa regola serve a garantire che la possibilità di vendita sia alta, limitando l'abuso della procedura e rispettando il tempo dei colleghi volontari e i rapporti con i fornitori.
+
+3. Procedura Operativa
+Qual è la modalità corretta per inviare la richiesta al PRP?
+La richiesta deve essere inviata al PRP esclusivamente tramite email, allegando obbligatoriamente il preventivo accettato dai clienti.
+
+Cosa deve fare il PRP dopo aver preso l'opzione?
+Il PRP deve inoltrare la mail del collega al booking indicando:
+
+Nome del promotore richiedente.
+
+Nome del fornitore.
+
+Numero dell'opzione.
+
+Cosa succede al momento della conferma della pratica?
+Il promotore deve inserire una nota per il booking specificando il numero di opzione e il nome di chi l'ha presa, richiedendo contestualmente la conferma dei servizi.
+
+4. Vincoli Tecnici e Rapporti con i Fornitori
+L'opzione garantisce sempre la tariffa e la disponibilità?
+
+
+No. L'opzione non è mai una garanzia assoluta; ad esempio, uno "stop sale" del fornitore fa decadere automaticamente l'opzione stessa.
+
+Quali sono i rischi di un uso eccessivo delle opzioni?
+Richiedere troppe opzioni con una bassa conversione in vendite danneggia i rapporti con i tour operator, poiché blocca posti volo e camere che potrebbero essere venduti ad altri.
+
+La direzione può sospendere questa possibilità?
+Sì. Evolution Travel si riserva la facoltà di interrompere questa procedura in qualsiasi momento qualora si riscontrassero problemi o un uso elevato di opzioni che non si trasformano in vendite effettive
+
+
+
+Mappa Mentale: Opzioni per Promotori non Abilitati
+--------------------------------------------------
+
+1. Attori e Ruoli
+PRP (Promotore di Riferimento Prodotto):
+Agisce come intermediario volontario per bloccare i servizi.
+Nessun obbligo: La disponibilità è a sua discrezione.
+Promotore richiedente: Colui che non ha ancora l'abilitazione alle prenotazioni dirette ma ha una trattativa calda.
+Booking: Riceve la segnalazione dell'opzione e verifica la coerenza con il preventivo.
+
+2. Presupposti Obbligatori (Il "Semaforo Verde")
+Verifica Disponibilità: Il promotore deve aver già controllato che i posti/camere siano disponibili con il fornitore.
+Preventivo Accettato: L'opzione si chiede solo se il cliente ha già detto "sì" al preventivo.
+Alta probabilità di chiusura: La procedura serve a concretizzare vendite quasi certe, non per "bloccare a caso".
+
+3. Flusso Operativo (Step-by-Step)
+Fase 1: La Richiesta: Il promotore invia una email al PRP allegando il preventivo accettato.
+Fase 2: Il Blocco: Il PRP prende l'opzione sul portale/fornitore.
+Fase 3: La Comunicazione: Il PRP inoltra la mail al booking specificando:
+  - Nome del collega richiedente.
+  - Fornitore utilizzato.
+  - Numero dell'opzione.
+Fase 4: La Conferma: In fase di prenotazione definitiva, il promotore inserisce una nota in ETgest con i dettagli dell'opzione e il nome del PRP che l'ha gestita.
+
+4. Gestione del Rischio e Regole d'Oro
+Limiti dell'Opzione: Non garantisce al 100% tariffa e disponibilità (es. in caso di stop sale improvviso del fornitore).
+Rapporto con i Fornitori: Evitare l'abuso (troppe opzioni non confermate) per non danneggiare la reputazione di Evolution Travel con i Tour Operator.
+Monitoraggio: La direzione monitora il tasso di conversione (opzioni vs vendite) e può sospendere il servizio se usato in modo scorretto.
+
+💡 Come usare queste due mappe insieme?
+Se hai un cliente Welfare: Segui la prima mappa (Lara Pistelli, calcolo fee, gestione buoni).
+Se non sei abilitato alle dirette: Usa questa seconda mappa per appoggiarti a un PRP e bloccare il viaggio mentre gestisci la parte amministrativa welfare.

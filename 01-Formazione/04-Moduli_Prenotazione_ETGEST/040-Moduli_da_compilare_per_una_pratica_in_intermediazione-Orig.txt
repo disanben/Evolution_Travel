@@ -1,0 +1,28 @@
+################################################################
+# 04 - Moduli da compilare per una pratica in intermediazione  #
+################################################################
+
+00.00 Introduzione
+00.24 Aggiornamento dati anagrafici cliente
+01.26 Accettazione del preventivo in ETgest
+01.44 Importante: accettazione del preventivo e compilazione dei moduli di prenotazione
+02.32 Scelta della tipologia di viaggio
+03.55 Compilazione intestazione viaggio
+07.43 Moduli disponibili per una pratica in intermediazione
+07.47 Assicurazione
+08.21 Quota cliente
+11.49 Specifica importante delle compagnie aeree ed emissione dei voli 
+16.33 Servizi a terra
+17.18 Trasporti
+17.34 Servizio accessori
+18.05 Crociera
+18.17 Allega pagamento
+18.43 Pacchetto
+19.15 Sconto
+19.28 Dettagli in merito allo sconto applicato
+21.33 Sezione Incassi/pagamenti
+
+
+
+
+

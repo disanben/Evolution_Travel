@@ -1,0 +1,22 @@
+###########################################################################
+# 10 - Altri strumenti: note, annullamento, modifiche, riscontro vacanza  #
+###########################################################################
+
+00.00 Introduzione
+00.47 Sezione Documenti/Note
+01.20 Note per amministrazione, booking e nota viaggio
+07.33 Il modulo Modifica Pratica
+09.56 Il modulo Annullamento Viaggio
+12.13 Procedura emissione Clikki
+12.49 Il modulo Riscontro Vacanza
+14.13 Il modulo Allega Pagamento
+15.40 Sezione Pagamenti per rimborso
+16.13 Dati anagrafici del cliente
+16.49 Preventivi
+16.54 Viaggi
+17.00 Note
+17.28 Rubrica partecipanti
+
+
+
+

@@ -1,0 +1,147 @@
+Prenotazioni Welfare (F.A.Q)
+----------------------------
+
+FAQ: 
+Gestione Prenotazioni Welfare Evolution Travel
+
+1. Concetti Base e Partner
+--------------------------
+-Cos'è il Welfare Aziendale in questo contesto?
+È un insieme di benefit che l'azienda offre ai dipendenti per migliorare la loro vita privata. Evolution Travel interviene come partner commerciale fornendo servizi turistici attraverso piattaforme specializzate (Provider o Digital Company).
+
+-Quali sono le principali società già convenzionate con Evolution Travel?
+Le società con convenzione attiva includono:
+	Eudaimon (fee 5%)
+	Wellwork (fee 7%)
+	Welfarebit e Timeswapp (fee 0%)
+	Jointly (fee 5%)
+	Edenred (fee 5%, salvo dipendenti Banca d'Italia)
+	Tantosvago - SvaGo (commissione 7%)
+
+-Posso contattare direttamente le aziende presenti sulle piattaforme?
+No. È assolutamente vietato contattare direttamente le aziende; l'inosservanza di questa regola comporta l'annullamento immediato del contratto da fornitore.
+
+2. Gestione Operativa e Commissioni
+-----------------------------------
+-Come viene gestito un nominativo che arriva tramite welfare?
+Lara Pistelli verifica la proprietà del nominativo in ETgest:
+	-Se già assegnato a un promotore: Lara fornisce supporto e percepisce una commissione del 2% sul valore totale del viaggio, detratta dalla provvigione del promotore.
+	-Se nuovo contatto: Lara ne diventa proprietaria e può lavorarlo o appaltarlo. 
+		-In caso di appalto, si segue la % concordata tra le parti.
+
+-Come si calcola l'importo disponibile per il viaggio?
+Bisogna sottrarre la fee della piattaforma dal valore del buono.
+Esempio: Buono da 1.000€ con fee al 5% (50€) = 950€ disponibili per i servizi.
+Se il costo del viaggio supera il valore netto del buono, il cliente deve pagare l'integrazione.
+
+-Cosa devo inserire obbligatoriamente nel preventivo?
+Nella voce "La quota comprende": inserire la dicitura "Quota gestione pratica welfare nome piattaforma euro xx" basata sulla fee applicata.Nelle "Modalità di pagamento": indicare le istruzioni per riscuotere il buono sulla piattaforma specifica e come pagare eventuali integrazioni.
+
+3. Buoni Viaggio e Scadenze
+---------------------------
+-Cosa succede se il buono del cliente è in scadenza ma non ha ancora scelto il viaggio?
+Il cliente può comunque riscuotere il buono e ricevere da Evolution Travel un Buono Viaggio (al netto delle commissioni).Il Buono Viaggio ha validità di un anno dalla data di emissione.Deve essere utilizzato in un'unica soluzione.
+
+-Quando vengono liquidate le provvigioni?
+Le provvigioni vengono liquidate solo al ricevimento dell'effettivo incasso dalla società di welfare. Nel caso di emissione di un "Buono Viaggio" per uso futuro, le provvigioni matureranno solo al momento della prenotazione effettiva dei servizi.
+
+4. Casi Particolari e Assicurazioni
+-----------------------------------
+-Il credito welfare può essere convertito in contanti?
+No, non può essere monetizzato. Può essere rimborsato in denaro solo se il cliente ha già pagato di tasca propria e il credito welfare viene erogato dopo il saldo.
+
+-È possibile assicurare un viaggio pagato con welfare?
+Sì, ma esclusivamente con la polizza annullamento Clikki Top o integrativa. In caso di sinistro, il rimborso della parte welfare avverrà tramite voucher.
+
+-Si possono sommare più crediti welfare?
+Sì, è possibile sommare più crediti all'interno della stessa pratica se relativi a familiari o partecipanti dello stesso viaggio.
+
+5. Collaborazioni senza convenzione
+-----------------------------------
+-Cosa fare se la società non è tra quelle convenzionate?
+	-Se è una collaborazione "singola": Alcune società richiedono solo una fattura (es. TreCuori Spa). Prima di procedere, consulta sempre Lara Pistelli.
+	-Se è Welfare Diretto: Se l'azienda paga direttamente ET senza piattaforme esterne, la richiesta va gestita via mail con l'amministrazione.
+
+
+Guida Operativa ETgest: Prenotazioni Welfare
+--------------------------------------------
+1. Come si inserisce la commissione (fee) del Provider?
+	-Se la società welfare prevede una fee (es. Eudaimon 5%), questa va inserita come servizio accessorio per far quadrare i conti tra il lordo del buono e il netto incassato.
+	-Nome Fornitore: Inserisci l'anagrafica della società di welfare (es. Edenred, Jointly).
+	-Totale al cliente: Inserisci l'importo della commissione calcolata sul valore del buono.
+	-Costo: Inserisci lo stesso identico importo del "Totale al cliente".
+	         Esempio: Per un buono da 1.000€ con fee al 5%, caricherai 50€ sia come totale cliente che come costo.
+
+2. Cosa devo allegare come "Pagamento Cliente"?
+Nella sezione pagamenti di ETgest, non avrai un bonifico immediato dal cliente per la parte coperta dal welfare.
+	-Documento da caricare: Devi allegare la mail di conferma di utilizzo del buono welfare (salvata in formato PDF completo) ricevuta da Lara Pistelli.
+	-Integrazioni: Se il cliente ha pagato una differenza (perché il viaggio costava più del buono), allega anche la ricevuta di quel pagamento.
+
+3. Come gestisco un "Buono Viaggio" per una prenotazione futura?
+Se il cliente deve "salvare" il credito in scadenza ma non ha ancora scelto il viaggio, la procedura in ETgest cambia leggermente.
+	-Creazione della pratica iniziale:
+		-Destinazione e Date: Inserisci "Italia" come destinazione e la data odierna come data viaggio.
+		-Servizio Accessorio Buono Viaggio:
+			-Descrizione: Note per il booking per la preparazione del buono viaggio.
+			-Fornitore: "Buono viaggio Evolution Travel".
+			-Importo: Il valore del buono welfare al netto della commissione.
+			-Servizio Accessorio Commissione: Inserisci la fee della società welfare (come spiegato al punto 1).
+
+4. Come si usa il Buono Viaggio quando il cliente decide di partire?
+Quando il cliente sceglie finalmente il viaggio, dovrai aprire un nuovo ticket e stornare il vecchio credito.
+-Servizio di storno: Crea un servizio accessorio con importo in negativo pari al valore del buono viaggio precedentemente emesso.
+-Descrizione: Indica l'ID viaggio della pratica originale in cui era stato generato il buono.
+-Saldo: Il sistema calcolerà la differenza tra il costo del nuovo viaggio e il valore del buono stornato. Se l'importo coincide, il totale dovuto dal cliente sarà zero.
+
+5. Quali sono le responsabilità di Lara Pistelli in ETgest?
+Lara agisce come supervisore e supporto amministrativo per queste pratiche.
+	-Verifica Proprietà: Lara controlla se il nominativo è già presente in ETgest prima di procedere.
+	-Conferma Formale: È lei a inviare la mail ufficiale a promotore, booking e amministrazione con l' "OK all'utilizzo del credito".
+	-Commissione: Se il nominativo era già tuo, Lara inserisce nella pratica la sua commissione del 2% sul valore totale del viaggio.
+	-Nota Importante: Ricorda che per le pratiche di solo "Buono Viaggio futuro", non maturano provvigioni al momento dell'incasso del welfare; le vedrai caricate solo sulla prenotazione effettiva del viaggio.
+
+
+Tempistiche e Condizioni Welfare
+----------------------------------
+1. Quali sono i termini di incasso e le fee per le società convenzionate?
+Le società hanno regole differenti per quanto riguarda le commissioni e il tempo necessario per ricevere il pagamento:
+-Eudaimon: Fee del 5% sul valore del credito. Incasso a 30 giorni dalla data di emissione fattura (emessa il 1 o il 16 del mese).
+-Wellwork: Fee del 7% sul valore del credito. Incasso a 30 giorni fine mese dalla data di emissione fattura.
+-Welfarebit: Nessuna fee (0%). Incasso a 30 giorni fine mese dalla data di emissione fattura.
+-Timeswapp: Nessuna fee (0%). Incasso a 30 giorni fine mese dalla data di emissione fattura.
+-Jointly: Fee del 5% sul valore del credito. Incasso a 60 giorni fine mese dalla data di emissione fattura.
+-Edenred: Fee del 5% (eccetto dipendenti Banca d'Italia). Incasso a 7 giorni dalla data di emissione fattura (emessa tra il 1 e il 15 del mese successivo all'acquisto).
+
+2. Come funzionano i pagamenti con l'aggregatore Tantosvago (SvaGo)?
+Tantosvago applica una commissione del 7%. I termini di incasso dipendono dalla data di partenza del cliente:
+-Partenza entro 30 giorni dall'acquisto: Pagamento entro una settimana lavorativa.
+-Partenza oltre i 30 giorni dall'acquisto: Acconto del 30% all'ordine e saldo a 30 giorni prima della partenza.
+Nota: Tantosvago include molti altri provider (come Aon, Jakala, Poste Welfare); se il cliente arriva da uno di questi, deve accedere alla sezione "viaggi" agenzia "SvaGo".
+
+3. Cosa succede se la società non è convenzionata ma è "valutabile"?
+Esistono società (come DoubleYou, WelfareHub, Happily) con cui ET non ha ancora trovato un accordo.È possibile proporre una nuova convenzione scrivendo a Lara Pistelli, ma la valutazione non è immediata.Il cliente deve verificare personalmente sul suo portale, nella sezione "travel e tempo libero", se Evolution Travel è presente per essere certi della fattibilità.
+
+4. Come gestire le collaborazioni "senza convenzione" (es. TreCuori)?
+In questi casi la società richiede solo una fattura per pagare la prenotazione.
+Bisogna accertarsi che la società accetti una fattura estera non elettronica e pagamento su IBAN estero.
+Importante: Evolution Travel deve ricevere l'incasso (acconto o saldo) prima di confermare i servizi. 
+Se i tempi della società sono lunghi, il cliente deve anticipare l'importo e verrà rimborsato da ET una volta ricevuto il bonifico dall'azienda.
+
+5. Qual è la differenza con il "Welfare Diretto"?
+Non va confuso con le piattaforme provider. 
+Nel welfare diretto, l'azienda del cliente paga direttamente Evolution Travel a fronte di una fattura intestata all'azienda stessa. 
+Questa pratica si gestisce via mail direttamente con l'amministrazione.
+
+
+
+Domande e risposte frequenti
+----------------------------
+– Il credito welfare può essere convertito in denaro?
+No, il credito welfare non può essere monetizzato e può essere utilizzato esclusivamente per l’acquisto di un servizio. L’unica eccezione è nel caso in cui il cliente abbia già prenotato e pagato il viaggio con un proprio pagamento, e il credito welfare venga erogato successivamente al saldo. In questo caso, il rimborso del credito seguirà i tempi di incasso della piattaforma.
+– Il cliente può utilizzare il credito welfare sia per l’acconto che per il saldo?
+Si, il credito può essere utilizzato sia come acconto che come saldo. Se il cliente dispone di più crediti welfare, può utilizzarli su entrambi i pagamenti.
+– Il cliente può utilizzare più crediti welfare nella stessa prenotazione?
+Si, il cliente può sommare più crediti welfare all’interno della stessa pratica, nel caso in cui siano relativi a familiari o partecipanti dello stesso viaggio.
+– Il cliente che paga con credito welfare può assicurare il viaggio contro l’annullamento?
+Si, ma può essere assicurato solo con la polizza annullamento Clikki Top o integrativa, come accordato con la compagnia assicurativa.
+In caso di apertura di un sinistro, al cliente verrà erogato un voucher pari al valore del buono welfare e un rimborso per l’eventuale parte integrata dal cliente. Il valore totale del rimborso, come per tutti i sinistri assicurativi, sarà al netto della quota assicurativa e delle franchigie applicate dal liquidatore.

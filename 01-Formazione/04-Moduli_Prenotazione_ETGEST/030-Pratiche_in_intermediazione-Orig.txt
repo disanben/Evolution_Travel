@@ -1,0 +1,202 @@
+##################################
+#   Pratiche in intermediazione  #
+##################################
+
+00.00 Introduzione
+00.12 Quali sono le pratiche in intermediazione
+02.17 Preventivo dal TO/fornitore
+03.53 Preventivo corretto al cliente
+09.16 Costi aggiuntivi che diminuiscono il margine
+13.57 Casi particolari relativi alla quota netta
+15.29 Compilazione corretta del modulo di prenotazione in ETgest
+16.17 Ricezione e controllo prenotazione dal booking
+19.41 Ricezione e verifica degli estratti conto
+20.20 Mancata applicazione della procedura
+20.41 Come compilare la tabella per le pratiche inPratiche in intermediazione: ricarico corretto
+
+
+
+Pratiche in intermediazione: ricarico corretto
+
+Premessa:
+Un viaggio venduto in intermediazione è la rivendita di un pacchetto turistico già pronto, elaborato da un Tour Operator e venduto ad un prezzo forfettario. In questo caso, l’agente di viaggio agisce come intermediario, senza assumersi responsabilità dirette sull’organizzazione dei servizi, che restano a carico del TO. Ricordiamo che, nel caso venga aggiunto un escursione o attività acquistato da un altro fornitore, il pacchetto diventa in organizzazione in quanto l’escursione e l’attività sono considerati servizi turistici e non servizi accessori.
+Per le pratiche in intermediazione quando il promotore chiede il preventivo ad un tour operator/fornitore (richiesta telefonica, via mail o tramite il booking tool) deve essere a conoscenza fin da subito delle informazioni indispensabili sottoindicate per applicare il corretto ricarico e formulare il prezzo finale al cliente.
+Importantissimo!
+E’ obbligatorio richiedere sempre al TO/fornitore il preventivo in forma scritta e allegarlo in ET gest nella sezione documenti/note come nota viaggio.
+Quando si lavora con fornitori che contrattualmente applicano la quota lorda è vietato assolutamente chiedere di trasformare l’estratto conto al netto.
+
+1- Preventivo dal TO/fornitore
+I casi di preventivo, dove trovare le informazioni necessarie per poi applicare il corretto ricarico sono due:
+a- quota lorda:
+è la quota di vendita al cliente che  include le commissioni riconosciute a ET dal fornitore / TO.
+Importante:
+In base agli accordi il TO/fornitore può utilizzare il termine “sconto” al posto di “commissione”; nulla cambia in quanto nel preventivo è indicata la quota lorda al cliente.
+b- quota netta:
+è la quotazione del TO/fornitore al quale il PR deve aggiungere il margine di guadagno. La somma di “quota netta” + “margine” rappresenta la quota di vendita al cliente. La quota netta è l’importo che ET deve pagare al fornitore / TO.
+È fondamentale conoscere se un preventivo è in quota netta perché determina il modo in cui viene calcolato il prezzo finale da comunicare al cliente.
+
+2- Preventivo corretto al cliente
+Attenzione!
+Comunicare già dal preventivo l’importo esatto da pagare per poter procedere con la prenotazione, come spiegato di seguito:
+Acconto:
+è dato dalla somma delle seguenti voci:
++ saldo totale dei servizi non rimborsabili o con richiesta di pagamento immediato (comprensivo del nostro margine totale; anche il margine non verrà mai rimborsato)
++ saldo quota gestione pratica
++ saldo quota assicurativa (calcolata sul lordo l cliente)
++ 25% sulla quota restante (comprensivo del margine; in caso di annullamento anche il margine seguirà le penali applicate ed eventuali differenze dovranno essere rimborsate al cliente)
+Saldo:
+a 35 gg dalla data di partenza salvo termini più restrittivi previsti dalle condizioni di vendita del Tour Operator e riportati nel contratto di viaggio.
+Se il TO/fornitore applica dei termini di pagamento più restrittivi rispetto ai nostri valgono i suoi.
+
+Per facilitare il calcolo corretto dell’acconto qui potete trovare un *calcolatore acconto* che vi permette di determinare in pochi passaggi il giusto acconto da richiedere al cliente. 
+
+Nota importante – Differenza tra sconto TO e sconto del promotore
+Quando si parla di sconto è fondamentale distinguere due casi diversi:
+
+Sconto del Tour Operator 
+È una riduzione di prezzo concessa dal TO/fornitore (promo, campagna commerciale) e già inclusa nel preventivo scritto del fornitore.
+-> È sempre consentita e non riduce il margine del promotore.
+
+Sconto applicato dal promotore (Sconto PR)
+È una riduzione del prezzo di vendita al cliente decisa dal promotore, che incide sul margine della pratica.
+-> È questo il tipo di sconto a cui si riferiscono le regole riportate di seguito.
+
+In base ai casi di preventivo ricevuti dal fornitore seguire le indicazioni, tenendo presente che lo sconto non è mai autorizzato. Nel caso in cui il promotore voglia concederlo, sarà totalmente addebitato a suo carico e non dovrà essere superiore alle sue provvigioni maturate (nella pratica o nel pannello provvigioni), altrimenti la prenotazione verrà annullata da parte del booking.
+a- quota lorda
+Il prezzo da comunicare al cliente deve essere come minimo quello indicato dal TO/fornitore, in modo da mantenere la commissione che ci ha riconosciuto. E’ possibile ed è consigliato aggiungere un ricarico ulteriore, se le condizioni di mercato lo consentono.
+b- quota netta
+Per ottenere un margine minimo di almeno un 10 %, va applicato un ricarico più alto di almeno il 12 % su tutte le quote, tenendo conto di altri costi sotto elencati che andranno a diminuire il guadagno vero e proprio.
+Il prezzo al cliente si ottiene applicando quindi un ricarico calcolato con la formula commerciale di almeno 12 % sulla quotazione ricevuta dal fornitore, comprensiva di tutti i servizi.
+Esempio di ricarico commerciale al 12 %:
+quota netta € 1.000 / 0,88 (rappresenta il 12 %) = € 1136 Margine= 136
+Il ricarico al 14 % /0,86 , al 15 % /0,85 e così via.
+Il simbolo / è l’operazione di divisione.
+
+Importante:
+Se fra i servizi c’è una quota volo che incide in modo rilevante sul totale del viaggio applicare:
+– sul volo: aggiungere almeno le agency fee come da indicazioni in aol Costo fisso per voli, traghetti e biglietti ferroviari e valutare di aumentare il margine applicando un ulteriore ricarico.
+– su tutti gli altri servizi: applicare un ricarico minimo del 12 %
+– l’unica quota non ricaricata è la quota di gestione pratica per i pacchetti PTO.
+
+Per facilitare questo conteggio e applicare il margine minimo è necessario utilizzare la *tabella calcolo margini intermediazione*:
+– tabella intermediazione
+con le formule preimpostate, dove visivamente con i colori verde e rosso, viene evidenziato se il mark up applicato è corretto.
+Per tutte le pratiche con tariffa netta, dove la commissione finale ha una % evidentemente inferiore al 10% (visibile sia nel riquadro dei totali in ET gest in alto a destra e sia nella casella “commissione definitiva” della tabella) vi chiediamo di allegare la tabella in ETgest come nota viaggio, per facilitare il controllo da parte del booking ed evitare dispersione di tempo nel richiedervi spiegazioni. Non verranno accettate pratiche con mark up non corretto.
+Se non viene rispettata la direttiva aziendale di applicare correttamente il margine, sarà obbligatorio allegare la tabella per tutte le prenotazioni.
+
+c- Costi aggiuntivi che diminuiscono il margine
+Nel preventivo che fate al cliente, tenere conto anche dei costi aggiuntivi che verranno detratti dal margine a pratica confermata, già considerati nella tabella e qui di seguito elencati:
+c.1- commissioni di incasso
+con bonifico, carta di credito e/o altri metodi di pagamento consultabili nelle relative pagine aol Bonifico bancario Bonifico Sepa Instant
+Pagamento con carta di credito o PayPal
+Attenzione:
+E’ consigliabile chiedere al cliente già nella fase di raccolta informazioni quale metodo di pagamento preferisce utilizzare per poter tenerne conto ed effettuare un corretto ricarico che consideri anche questi costi, in quanto non è possibile addebitare successivamente le spese di incasso una volta che ha accettato il preventivo.
+c.2- costo fondo di garanzia
+obbligatorio per i pacchetti, il costo è di 2 euro a pax maggiorenne, consultabile alla pagina aol Fondo di garanzia
+c.3- costo assicurazione responsabilità civile
+pari al 1,2 % sul margine
+Servizi inclusi nel calcolo in ETgest:
+– Pacchetto e prenotazione: sul margine (al netto delle imposte)
+– Arrotondamento: sull’intero importo (al netto delle imposte)
+– Agency Fee: sull’intero importo (al netto delle imposte)
+– Quota gestione pratica (compenso intermediazione): sull’intero importo al netto delle imposte
+– Assicurazione integrativa: sul margine (al netto delle imposte)
+Servizi esclusi nel calcolo in ETgest:
+– Assicurazione clikki
+– Sconto
+– Incasso (commissioni carte di credito)
+– Costo (commissioni bonifici, integrazione commissione carta di credito, fondo insolvenza)
+c.4- iva per quota lorda
+– iva 0 %:
+sulla commissione (nella maggior parte dei casi non c’è iva essendo il TO/fornitore un soggetto europeo iscritto al Vies a cui emettiamo una fattura di provvigione).
+Per la commissione possono esserci casi minori con gestione diversa in base alla territorialità del fornitore Extra UE (iva 0 %), o Europea ma senza iscrizione al Vies (iva 18 %).
+Il V.I.E.S. è un sistema di scambio di informazioni tra paesi membri dell’Unione Europea istituito al fine di consentire una corretta fiscalità.
+– iva 18 %:
+sui servizi di ricarico aggiuntivi (esempio quota gestione pratica, arrotondamento) e sullo “sconto” riconosciuto dal TO/fornitore se viaggio CEE (in quanto contabilmente l’inquadramento è lo stesso della pratica netta)
+c.5- iva per quota netta:
+– iva 0 %:
+applicata sul margine, quando il viaggio è su destinazione FUORI CEE
+– iva 18 %:
+applicata sul margine, quando il viaggio è su destinazione CEE
+Attenzione!
+Eventuali servizi aggiuntivi di altri fornitori rispetto a quello del pacchetto principale, mantengono il proprio inquadramento contabile di origine, indipendentemente che siano proposti al cliente nella stessa pratica con quota lorda o netta.
+Esempio:
+pacchetto Grecia con Alpitour, quota lorda e commissione (0 % iva)
+più assicurazione Clikki Top servizio netto CEE margine 0,5 % (18 % iva sul margine)
+
+Proprio in considerazione di questi costi va applicato il margine minimo consigliato per ottenere il margine reale desiderato, per facilitare inseriamo nuovamente il link alla tabella di calcolo.
+
+In aol trovate due pagine importantissime che vi guidano sinteticamente nelle prenotazioni:
+Tipologie pratiche e costi
+Schema policy e cancellazioni
+
+3- Casi particolari relativi la quota netta:
+Quando si lavora con fornitori che contrattualmente applicano la quota lorda, l’estratto conto va mantenuto al lordo ed pratiche al netto vengono accettate solo per queste eccezioni:
+
+a- quota di vendita pari o superiore rispetto alla quota lorda
+Attenzione:
+In caso di destinazione CEE, questo comporta una modifica dell’iva: da 0 % sulla commissione, diventa 18 % sul margine, dunque c’è un ulteriore costo che va in detrazione che bisogna considerare.
+
+b- richiesta della fattura da parte del cliente:
+nel caso in cui il cliente richieda specificatamente la fattura (informazione da richiedere al cliente in fase di preventivo), la prenotazione deve essere gestita con quota netta, fermo restando che valgono sempre le direttive aziendali sopra indicate. Una volta trasformato il preventivo in prenotazione non sarà più possibile effettuare modifiche successive riguardanti l’intestazione del cliente per la fatturazione.
+
+4- Compilazione corretta del modulo di prenotazione in ETgest
+Una volta che il cliente accetta il preventivo e viene registrato l’incasso dell’acconto o del saldo richiesto, va compilato il modulo di prenotazione e inoltrato al booking, che dopo le opportune verifiche procede con la conferma al TO/fornitore (attività svolta anche direttamente dal promotore con le prenotazioni dirette).
+Il modulo va compilato correttamente e completamente in tutte le sue parti secondo procedura e come da formazione ricevuta nel corso base.
+
+5- Ricezione e controllo prenotazione dal booking
+Una volta ricevuta la prenotazione dal promotore, il booking effettua i controlli per verificare la correttezza di tutti i dati, fra i quali anche le quote e il ricarico applicato, per poi procedere con la conferma al fornitore.
+Anche il promotore con prenotazione diretta deve procedere con la conferma, rispettando sempre le stesse direttive aziendali.
+I controlli sono fatti in base al tipo di quota come sotto indicato:
+a- Quota lorda:
+– Verifica del “totale al cliente” nel servizio da confermare:
+deve corrispondere al totale nel preventivo del TO/fornitore che deve essere allegato dal promotore tramite nota, già dal momento di invio del preventivo al cliente.
+Per differenze entro i 10 euro:
+il booking inserisce lo sconto a carico del promotore e procede con la conferma.
+Per differenze superiori ai 10 euro:
+il booking rifiuta il modulo specificando il motivo e chiedendo come trattare la differenza (se viene integrata dal cliente o se è da addebitare al promotore, vedere punto “2- Preventivo corretto al cliente”).
+Se non è allegato il preventivo del TO/fornitore:
+il booking rifiuta il modulo chiedendo di allegarlo.
+b- Quota netta:
+– Verifica che il “costo” inserito nel servizio sia lo stesso indicato dal TO/fornitore nel preventivo allegato:
+Se la quota corrisponde:
+il booking procede con lo step successivo e verifica il ricarico applicato.
+Se la quota non corrisponde:
+il booking rifiuta il modulo chiedendo spiegazioni sulla differenza riscontrata.
+Se il preventivo non è allegato:
+il booking rifiuta il modulo chiedendo di allegarlo.
+– Verifica del ricarico come da direttive aziendali:
+Ricarico corretto
+Il booking terrà conto dell’applicazione corretta e procede con la conferma al fornitore.
+Ricarico inferiore
+Il booking rifiuta il modulo chiedendo spiegazioni.
+c- Verifica pratiche con prenotazione diretta
+Il booking verifica che siano state rispettate le direttive per gli aspetti riguardanti la prenotazione, fra cui il controllo del ricarico.
+In caso di margine che non rispetti il minimo richiesto:
+– chiede chiarimenti al promotore, segnalando cosa non è stato fatto in modo corretto.
+– in caso di applicazione di sconto non autorizzato o di mark up non corretto e inferiore alle direttive, procede a detrarre la differenza totalmente a carico del promotore se ha provvigioni maturate, altrimenti chiede di integrare la differenza mancante.
+– in caso della mancata applicazione delle direttive aziendali più di una volta, la sede revocherà le prenotazioni dirette.
+
+6- Ricezione e verifica estratti conto
+Al ricevimento dell’estratto conto il booking controlla la correttezza tra estratto conto e modulo di prenotazione, secondo gli accordi commerciali e il preventivo ricevuto.
+La quotazione indicata sull’EC ricevuta dai TO come dai PTO è quanto sarà da versare da parte di ET al netto delle commissioni.
+Le verifiche sul margine e sulla compilazione del modulo sono già avvenute nei passaggi precedenti e procede con l’inserimento del codice contabile che finalizza la prenotazione.
+Da questo momento la conferma passa all’amministrazione e nella sezione Et gest “Incassi/Pagamenti” si visualizzano i pagamenti che dispone, con le relative scadenze programmate e l’importo saldato.
+Nota importante: quando un importo è registrato come pagato significa che l’amministrazione lo ha preso in carico e che nella maggior parte dei casi è già stato eseguito o, in ogni modo, verrà finalizzato entro le 24 ore successive, nel rispetto dei tempi tecnici richiesti per l’elaborazione (es. esecuzione del bonifico, transazione con carta di credito). Generalmente, l’operazione viene completata nel corso della stessa giornata lavorativa. 
+Attenzione che per alcuni fornitori (come ad esempio Alpitour, Crs, Nobis, Spencer and Carter, Msc, Costa Crociere) abbiamo accordi specifici che prevedono pagamenti posticipati. In questi casi, il saldo può avvenire anche dopo la data di partenza. 
+
+7- Mancata applicazione della procedura
+In caso della mancata applicazione delle direttive aziendali più di una volta, la sede intraprenderà le azioni necessarie e/o disattiverà anche le prenotazioni dirette.
+
+8 – Annullamento del viaggio
+
+In caso di annullamento del viaggio da parte del cliente:
+Le commissioni di vendita su un pacchetto annullato non vengono sempre perse totalmente, ma dipende dalla tipologia di quota:
+– Commissioni sulle quote NON rimborsabili:
+Queste commissioni (o margini) fanno parte delle somme che il cliente non recupera in caso di annullamento. Quindi, se la quota non rimborsabile include la commissione, questa viene trattenuta e non viene restituita al cliente.
+– Commissioni sulle quote RIMBORSABILI:
+Queste seguono le penali applicate dal Tour Operator. Se la quota (e quindi la commissione) è rimborsabile, in caso di annullamento e rimborso al cliente, anche la commissione viene restituita e quindi “persa”.
+
+In caso di annullamento del viaggio dal TO: 
+Quando un Tour Operator annulla un pacchetto turistico (per cause di forza maggiore, mancato raggiungimento del numero minimo, ecc.), il cliente ha diritto per legge (Codice del Turismo) al rimborso totale dell’intera somma versata.
+Non vengono trattenute penali, quote d’iscrizione o assicurazioni (salvo rari casi di polizze integrative già godute). Di conseguenza, non si genera alcun margine e, non essendoci redditività, le commissioni vengono perse.

@@ -1,0 +1,60 @@
+Notifiche e Alert in ETgest (F.A.Q.)
+
+1. Regole Generali e Limiti
+----------------------------
+-Qual è lo scopo dei nuovi alert introdotti nel sistema? 
+Gli alert servono a migliorare l'efficienza, garantire una gestione accurata delle pratiche, semplificare l'operatività del promotore e ridurre il rischio di ritardi o dimenticanze.
+-Esiste un limite massimo di ticket che posso gestire contemporaneamente? 
+Sì, il sistema non permette di accettare più di 5 ticket in contemporanea senza averli lavorati.
+
+2. Gestione dei Pagamenti e Preventivi
+--------------------------------------
+-Cosa succede se ricevo un pagamento per un preventivo che non ho ancora segnato come "accettato"? 
+In questo caso, il sistema accetterà in automatico l'ultimo preventivo inviato al cliente.
+Questo evita la comparsa immediata dell'alert di blocco, velocizzando la gestione.
+-Cosa devo fare se il sistema accetta automaticamente il preventivo sbagliato? 
+Se il cliente aveva richiesto più opzioni e quella selezionata non è corretta, devi:
+Annullare l'accettazione automatica.
+Selezionare il preventivo corretto (o duplicarne uno esistente apportando le modifiche necessarie e reinviandolo).
+Procedere con la scelta della tipologia di pratica e la compilazione dei moduli.
+
+3. Alert per Promotori con Prenotazioni Dirette
+-----------------------------------------------
+-Come si comporta il sistema per le pratiche in intermediazione? 
+Se hai le prenotazioni dirette, un preventivo accettato e un pagamento registrato, il sistema segnalerà con un alert la necessità di trasformare il preventivo in prenotazione prima di poterti far accettare nuovi ticket.
+-Quali sono le regole per le pratiche in organizzazione? 
+Per questa tipologia di pratica (se hai le prenotazioni dirette e il pagamento registrato), il sistema segue una logica temporale:
+Entro le prime 72 ore dalla registrazione del pagamento: Riceverai solo avvisi "non bloccanti" come promemoria.
+Dopo le 72 ore dalla registrazione del pagamento: Scatterà un alert bloccante che ti obbligherà a trasformare il preventivo in prenotazione prima di poter accettare nuovi ticket.
+
+L'importanza delle procedure
+----------------------------
+-Perché è fondamentale seguire correttamente queste regole di sistema?
+È essenziale per lavorare nel rispetto dei colleghi e delle procedure aziendali comuni. Utilizzare gli strumenti nel modo corretto, senza cercare soluzioni alternative, garantisce un flusso di lavoro fluido per tutto il network.
+
+
+Mappa Mentale: Notifiche e Alert ETgest
+----------------------------------------
+1. Obiettivi e Regole Generali
+Scopo del sistema: Migliorare l'efficienza, garantire accuratezza e ridurre ritardi o dimenticanze.
+Limite Ticket: Non è possibile accettare più di 5 ticket contemporaneamente senza averli lavorati.
+Integrità Professionale: Importanza di utilizzare gli strumenti correttamente nel rispetto delle procedure aziendali e dei colleghi.
+
+2. Gestione Preventivi e Pagamenti
+----------------------------------
+Auto-accettazione: Se viene registrato un pagamento su un preventivo non ancora accettato, il sistema accetta automaticamente l'ultimo inviato.
+Correzione Errori:
+   Preventivo errato: Se l'accettazione automatica non riguarda il preventivo corretto, è necessario annullare l'accettazione e selezionare quello giusto.
+   Modifiche necessarie: Se nessun preventivo corrisponde a quello accettato, bisogna annullare, duplicare/modificare il preventivo e procedere nuovamente.
+
+3. Logica degli Alert (per Prenotazioni Dirette)
+-------------------------------------------------
+Pratiche in Intermediazione: In presenza di pagamento registrato e preventivo accettato, compare un alert immediato che obbliga a trasformare il preventivo in prenotazione prima di accettare nuovi ticket.
+Pratiche in Organizzazione: La notifica segue una logica temporale basata sulla registrazione del pagamento:
+   Entro 72 ore: Avvisi non bloccanti (semplice promemoria).
+   Dopo 72 ore: Alert bloccante che impedisce l'accettazione di nuovi ticket fino alla trasformazione in prenotazione.
+
+Nota Operativa
+--------------
+Questa struttura è pensata per evitare che la tua lista di ticket "aperti" diventi ingestibile. 
+Ricorda che la trasformazione tempestiva del preventivo in prenotazione è il passaggio chiave per mantenere il sistema fluido e pronto a ricevere nuove richieste dai clienti.

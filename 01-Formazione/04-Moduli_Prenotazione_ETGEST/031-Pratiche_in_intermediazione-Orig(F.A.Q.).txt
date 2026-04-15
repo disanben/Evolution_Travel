@@ -1,0 +1,110 @@
+
+Pratiche in intermediazione(F.A.Q)
+------------------------------------
+
+FAQ: 
+Gestione Pratiche in Intermediazione
+
+1. Definizioni e Tipologie di Servizio
+---------------------------------------
+-Cosa si intende per "pratica in intermediazione"?
+È la rivendita di un pacchetto turistico già pronto, elaborato da un Tour Operator (TO) e venduto a un prezzo forfettario; l'agente agisce come intermediario senza responsabilità dirette sull'organizzazione.
+
+-Quando una pratica passa da intermediazione a "organizzazione"?
+Se al pacchetto del TO viene aggiunta un'escursione o un'attività acquistata da un altro fornitore, la pratica diventa in organizzazione, poiché tali attività sono considerate servizi turistici e non accessori.
+
+-Qual è la differenza tra Quota Lorda e Quota Netta?
+Quota Lorda: Include già le commissioni riconosciute a Evolution Travel dal fornitore.
+Quota Netta: È la quotazione del fornitore alla quale il promotore deve aggiungere il proprio margine di guadagno per determinare il prezzo al cliente.
+
+2. Preventivazione e Ricarichi (Mark-up)
+---------------------------------------
+-Qual è l'obbligo principale nel richiedere un preventivo a un fornitore?
+È obbligatorio richiedere sempre il preventivo in forma scritta e allegarlo in ETgest nella sezione documenti/note come "nota viaggio".
+
+-Come si calcola il ricarico corretto sulle quote nette?
+Per ottenere un margine minimo del 10%, va applicato un ricarico commerciale di almeno il 12% su tutti i servizi (usando la formula: quota netta / 0,88). Se è presente un volo rilevante, si applicano le agency fee fisse sul volo e il 12% sugli altri servizi.
+
+-Cosa succede se il margine applicato è inferiore al minimo richiesto?
+Il booking rifiuterà il modulo di prenotazione chiedendo spiegazioni. Se lo sconto non è autorizzato, la differenza verrà addebitata sulle provvigioni del promotore.
+
+3. Gestione Finanziaria e Acconti
+---------------------------------
+-Come si calcola l'acconto esatto da richiedere al cliente?
+ L'acconto è la somma di:
+  100% dei servizi non rimborsabili (incluso il margine totale).
+  Saldo quota gestione pratica.
+  Saldo quota assicurativa (calcolata sul lordo).
+  25% sulla quota restante (comprensivo di margine).
+
+-Quali costi aggiuntivi "diminuiscono" il margine reale del promotore?
+ Dal margine verranno detratti:
+  Commissioni di incasso: (carte di credito, PayPal, ecc.).
+  Fondo di garanzia: 2€ a passeggero maggiorenne.
+  Assicurazione RC: 1,2% sul margine.
+  IVA: 18% sul margine per destinazioni CEE (mentre è 0% per destinazioni fuori CEE).
+
+4. Sconti e Prenotazioni Dirette
+--------------------------------
+-È possibile concedere sconti al cliente?
+ Lo sconto del Tour Operator è sempre consentito e non riduce il margine del promotore. 
+ Lo sconto deciso dal promotore (Sconto PR) non è mai autorizzato; se concesso, è totalmente a carico del promotore e non deve superare le sue provvigioni maturate.
+
+-Quali sono i rischi per chi ha le "prenotazioni dirette"?
+ Il promotore deve rispettare rigorosamente le direttive sul margine minimo. 
+ In caso di mancata applicazione ripetuta della procedura o dei ricarichi corretti, la sede revocherà l'abilitazione alle prenotazioni dirette.
+
+5. Annullamenti
+---------------
+-Cosa succede alle commissioni se il cliente annulla il viaggio?
+ Sulle quote non rimborsabili: La commissione viene trattenuta e non restituita al cliente.
+ Sulle quote rimborsabili: La commissione segue le penali del TO; 
+ se la quota viene rimborsata, la commissione viene persa.
+
+-Cosa succede se il Tour Operator annulla il viaggio?
+ Il cliente ha diritto al rimborso totale. 
+ In questo caso non si genera alcun margine e tutte le commissioni vengono perse.
+
+
+MAPPA MENTALE:
+--------------
+
+Pratiche in Intermediazione
+----------------------------
+1. Fondamenti dell'Intermediazione
+Definizione: Vendita di un pacchetto turistico pre-assemblato da un Tour Operator (TO) a prezzo forfettario.
+Ruolo del Promotore: Intermediario senza responsabilità diretta sull'organizzazione dei servizi (carico del TO).
+Rischio "Organizzazione": Se aggiungi escursioni o attività da altri fornitori, la pratica diventa "in organizzazione" (servizi turistici, non accessori).
+Obbligo Documentale: È tassativo richiedere il preventivo scritto al fornitore e allegarlo in ETgest come nota viaggio.
+
+2. Gestione delle Quote e Ricarichi (Mark-up)
+-Quota Lorda: Include già le commissioni di Evolution Travel. Il prezzo al cliente deve essere almeno pari a quello del TO.
+-Quota Netta: Prezzo che ET paga al fornitore; il promotore deve aggiungere il margine.
+-Formula del Ricarico: Per garantire un margine minimo del 10%, applicare un ricarico commerciale di almeno il 12% su tutti i servizi.
+     Formula: Prezzo al cliente = Quota Netta/0.88
+-Eccezione Voli: Se il volo incide molto, applicare le agency fee fisse (AOL) sul volo e il 12% sul resto dei servizi.
+-Sconti: Lo sconto TO (promo) è sempre ammesso. 
+         Lo sconto PR (deciso dal promotore) è a suo totale carico e non deve superare le provvigioni maturate.
+
+3. Calcolo dell'Acconto Corretto
+L'acconto da richiedere al cliente non è un forfait casuale, ma la somma di:
+- 100% dei servizi non rimborsabili (incluso l'intero margine ET).
+- 100% Quota gestione pratica.
+- 100% Quota assicurativa (calcolata sul lordo).
+- 25% sulla quota restante (comprensivo di margine).
+Saldo: Solitamente richiesto a 35 giorni dalla partenza, salvo termini più restrittivi del TO.
+
+4. Costi che Riducono il Margine
+Il margine lordo viene eroso dai seguenti costi, da prevedere in fase di ricarico:Commissioni di incasso: Costi per pagamenti con carta di credito o PayPal.Fondo di Garanzia: 2€ per ogni passeggero maggiorenne.Assicurazione RC: Pari al 1,2% del margine.IVA sul Margine:18% per destinazioni CEE.0% per destinazioni fuori CEE.
+
+5. Procedure ETgest e Controlli Booking
+Verifica Margine: Se il ricarico è palesemente basso, è obbligatorio allegare la "tabella calcolo margini" in ETgest.
+Controllo Booking: Il booking verifica la coerenza tra il preventivo allegato e il modulo di prenotazione.
+Prenotazioni Dirette: Il mancato rispetto delle direttive sui margini può portare alla revoca immediata delle prenotazioni dirette.
+
+6. Gestione Annullamenti
+Annullamento da parte del Cliente:
+   Margini su quote non rimborsabili: Trattenuti da ET.
+   Margini su quote rimborsabili: Persi (restituiti al cliente insieme alla quota).
+Annullamento da parte del TO: Rimborso totale obbligatorio al cliente; tutte le commissioni vengono perse.
+

@@ -1,0 +1,94 @@
+#######################################
+# 07 - Pratiche in organizzazione    #
+#######################################
+
+00.00 Introduzione
+00.25 Dove trovare le informazioni per lavorare le pratiche in organizzazione
+00.50 Chi Ë il PO (Promotore Organizzatore)
+01.27 Escursioni e attivit‡
+02.18 Requisiti e tabella da utilizzare per i viaggi in organizzazione
+04.26 Regole per una corretta lavorazione di questa tipologia di pratica
+07.27 Suddivisione del margine per questa tipologia di pratiche
+08.20 Calcolo e assegnazione della provvigione QO in ETgest
+12.09 Come compilare correttamente la tabella di costruzione preventivo con esempio viaggio CEE
+23.21 Come compilare correttamente la tabella con esempio extra CEE
+
+Costruire viaggi in organizzazione
+Premessa
+Un viaggio venduto in organizzazione Ë un pacchetto turistico creato su misura dal promotore autorizzato (PO - Promotore Organizzazione). Questo comporta l'assemblaggio di almeno due o pió servizi turistici non accessori tra loro, come trasporto, alloggio, noleggio auto, escursioni, che possono essere acquistati da almeno 2 fornitori diversi.
+Chi lavora in organizzazione agisce come Tour Operator, assumendosi responsabilit‡ civili e penali e personalizzando il viaggio in base alle esigenze del cliente.
+
+Escursioni e attivit‡
+Ricordiamo che le escursioni e le attivit‡ rientrano tra i servizi turistici e non tra i servizi accessori, come stabilito dalla normativa sui pacchetti turistici. Di conseguenza, non si applica la regola del limite del 25% all'interno del pacchetto.
+Considera, ad esempio, un viaggio a Londra organizzato per visitare una mostra. In questo caso, la visita alla mostra non puÚ essere considerata un servizio accessorio, ma rappresenta un elemento essenziale del viaggio (dato che la destinazione Ë scelta proprio per questo motivo). Pertanto, rientra a pieno titolo tra i servizi turistici.
+
+Requisiti per lavorare in organizzazione
+Per lavorare in organizzazione Ë necessario essere un promotore con postazione Smart e ottenere l'autorizzazione da parte della sede.
+Questa autorizzazione si acquisisce superando il corso Promotore Organizzatore (PO), disponibile nella sezione Formazione, clicca qui.
+Il corso PO Ë un percorso strutturato e orientato alla pratica, pensato per accompagnarti passo dopo passo fino alla certificazione e all'abilitazione a lavorare le pratiche in organizzazione.
+Diventare PO significa assumere un ruolo di responsabilit‡ all'interno di Evolution Travel e crescere professionalmente, offrendo ai clienti ciÚ che nessun catalogo puÚ garantire: viaggi unici, personalizzati e costruiti su misura.
+Il costo del corso Ë di §150,00 e comprende 2 ore di sessione con un tutor qualificato e 3 ore di affiancamento su pratiche reali. 
+Per accedere al corso Ë necessario aver gi‡ completato: il corso Codici TO Booking Online e il corso Prenotazioni Dirette.
+Invia una mail a formazione.network@evolutiontravel.it per verificare i requisiti necessari all'accesso al corso.
+Per facilitare la spiegazione sulle differenze fra il vendere in organizzazione e in intermediazione (alias.. creare un pacchetto da soli o venderne uno di altri TO), abbiamo realizzato questo breve ma utile video "Organizzazione vs Intermediazione".
+
+Tabella costruzione preventivo
+La tabella di costruzione preventivo Ë uno strumento fondamentale per lavorare in organizzazione.
+Ti permette di verificare se stai applicando il corretto ricarico quando costruisci un pacchetto su misura in cui Evolution Travel opera come organizzatore.
+La tabella va utilizzata in tutti i casi di viaggio in organizzazione, ad esempio: hotel + volo, hotel + volo + noleggio, combinazioni di servizi non accessori tra loro -> Scarica qui la tabella di costruzione preventivo
+La tabella puÚ essere scaricata e utilizzata anche da dispositivi mobili Android o iOS tramite app compatibili. Alcune funzioni potrebbero non essere pienamente supportate in versione mobile: per un utilizzo completo Ë consigliato l'uso da desktop.
+
+Webinar di approfondimento sul lavoro in organizzazione
+Per comprendere come lavorare concretamente una pratica in organizzazione - dalla costruzione del preventivo alla scelta dei fornitori, fino alla corretta compilazione dei moduli in ETgest - ti consigliamo la visione dei seguenti webinar:
+1. Vendere in organizzazione: guida completa con esempi pratici a cura di Carmine Di Meo, CBO Evolution Travel
+2. Come lavorare le pratiche in organizzazione a cura di Angela Pescarolo (CAO) e Carmine Di Meo (CBO) Evolution Travel
+Questi webinar ti aiuteranno a collegare la teoria all'operativit‡ quotidiana e a utilizzare correttamente gli strumenti messi a disposizione.
+
+Regole per una corretta lavorazione dei viaggi in organizzazione
+- Il mark-up medio consigliato Ë del 22%. Non scendere mai sotto il 22% al netto di imposte, se cosç fosse non conviene lavorare in organizzazione, ma in intermediazione.
+- Fai sempre attenzione ad usare la tabella giusta, se il viaggio Ë entro CEE o fuori CEE, in modo che vengano conteggiate correttamente le imposte.
+- Compila correttamente i moduli per il Booking. Ad ogni singolo servizio deve corrispondere un modulo. Non dimenticare di inserire la quota di partecipazione, la quota di gestione pratica e l'assicurazione. In caso di mancanza di uno dei moduli, la pratica verr‡ rifiutata.
+- Allega sempre alla prenotazione che inoltri al Booking la tabella di costruzione preventivo compilata in tutte le sue parti con il preventivo costruito. In questo modo il Booking, soprattutto per le pratiche CEE, puÚ vedere gi‡ il margine reale comprensivo anche di eventuale scorporo delle imposte e puÚ capire da subito se la pratica ha un margine sufficiente per lavorare in organizzazione.
+Ricordiamo che il margine minimo, escluse imposte, deve essere del 22%, ogni pratica con margine inferiore deve essere autorizzata dalla Sede, inviando una mail a booking@evolutiontravel.eu e al responsabile, prima di inoltrare la prenotazione al Booking. Nel caso in cui non vengano rispettati questi presupposti, la pratica potr‡ essere rifiutata.
+- Servizi in valuta estera: quando si prepara il preventivo al cliente, tenere conto del cambio aggiungendo in media un +3% rispetto al controvalore proposto nei siti di cambio valuta, in quanto gli operatori con i quali collaboriamo per effettuare i pagamenti (Afex, banche, carte di credito) applicano sempre una commissione per l'operazione che includono dentro il cambio senza esplicitarla.
+Nota!
+Il margine minimo per lavorare in organizzazione Ë il 22%, ma nulla vieta di avere un margine anche del 30% e pió se il prodotto lo permette.
+Importante!
+Ricorda di seguire le regole per i pagamenti degli acconti e dei saldi da chiedere ai clienti. Nell'acconto vanno inclusi tutti i servizi non rimborsabili o con richiesta di pagamento immediato + quote di gestione pratica + quote assicurative + 25% sul restante importo della pratica. 
+Ricordiamo che il saldo deve pervenire a 35 giorni dalla data di partenza salvo termini pió restrittivi previsti dalle condizioni di vendita del Tour Operator e riportati nel contratto di viaggio, pena l'annullamento della prenotazione e che se  i fornitori applicano termini di pagamento pió restrittivi valgono i suoi.
+
+Suddivisione del margine
+Per le pratiche in organizzazione la suddivisione del margine avviene in questo modo:
+a- margine di vendita:
+Ë il 55% del margine, suddiviso con regole classiche come per tutte le altre prenotazioni: 50% al promotore di vendita, 12,5% al promotore di riferimento, 37,5% alla sede ed eventuale % al promotore che appalta (decurtata dal promotore di vendita).
+b- margine di organizzazione:
+Ë il restante 45% del margine, calcolato in automatico come quota organizzazione QO nel momento in cui la pratica Ë saldata. La suddivisione Ë 60% al PO (Promotore Organizzatore) e 40% alla sede. Quest'ultima quota verr‡ inserita automaticamente nelle provvigioni della pratica il giorno di rientro del viaggio.
+Nella tabella viene calcolata questa suddivisione del margine.
+
+Calcolo e assegnazione della provvigione QO in ET gest
+Nelle pratiche avvengono in automatico i seguenti passaggi:
+- inserimento costo QO quota organizzazione:
+al momento del saldo da parte del cliente e quindi con il cambio di stato pratica "saldato", si genera una riga di servizio "costo" con dettaglio "quota organizzazione" e importo pari al 45% del margine.
+In caso ci siano modifiche alla pratica successivamente, il booking effettuer‡ gli aggiornamenti necessari riportando la pratica in stato "completo" e con lo storno del costo della QO.
+Poi, dopo aver apportato le modifiche e aver rimesso lo stato "saldato", si genera un nuovo costo della QO con il calcolo del 45% sul nuovo margine.
+- inserimento provvigione QO nel pannello:
+nel giorno della data di fine pratica, quindi al rientro del cliente quando eventuali problematiche da affrontare legate al ruolo di PO sono passate, in automatico si genera la provvigione per il PO, sempre all'interno della pratica, pari al 60% della QO quota organizzazione. La provvigione sar‡ quindi visibile e fatturabile nel mese in cui il viaggio si Ë concluso con il rientro del cliente.
+Importante!
+Eventuali modifiche che possono avvenire anche in date successive, saranno inserite nella pratica con un nuovo calcolo e assegnazione manuale.
+Ricordiamo che per i viaggi in organizzazione la responsabilit‡ continua anche dopo il rientro, nei i termini entro i quali il cliente puÚ mandare un reclamo con richiesta di rimborso, da valutare e gestire assieme alla sede.
+
+
+
+
+
+Lavorare in Organizzazione con Evolution Travel1. Definizioni e Responsabilit‡Cos'Ë un viaggio in "organizzazione"?
+» un pacchetto turistico creato su misura dal promotore, assemblando almeno due servizi turistici non accessori (come volo, hotel, noleggio o escursioni) acquistati da almeno due fornitori diversi.Qual Ë il ruolo del Promotore Organizzatore (PO)?
+Il PO agisce come un vero e proprio Tour Operator, assumendosi la responsabilit‡ civile e penale del pacchetto e personalizzando il viaggio in base alle specifiche esigenze del cliente.Le escursioni sono considerate servizi accessori?
+No. Secondo la normativa sui pacchetti turistici, le escursioni e le attivit‡ sono servizi turistici a pieno titolo. Rappresentano spesso l'elemento essenziale del viaggio e non sono soggette al limite del 25% previsto per i servizi accessori.2. Requisiti e FormazioneChi puÚ lavorare le pratiche in organizzazione?
+Solo i promotori con postazione Smart che hanno ottenuto l'autorizzazione dalla sede superando il corso Promotore Organizzatore (PO).Quali sono i prerequisiti per accedere al corso PO?
+» necessario aver gi‡ completato il corso "Codici TO Booking Online" e il corso "Prenotazioni Dirette". Il costo del corso Ë di 150,00§ e include sessioni con tutor e affiancamento su pratiche reali.3. Regole Operative e Mark-upQual Ë il margine minimo richiesto per queste pratiche?
+Il mark-up medio consigliato Ë del 22%. Non si deve mai scendere sotto il 22% al netto delle imposte; in caso contrario, la sede potrebbe rifiutare la pratica o richiedere un'autorizzazione preventiva via mail.Come gestire i servizi in valuta estera?
+Bisogna aggiungere una media del +3% al cambio valuta ufficiale per coprire le commissioni non esplicite applicate dagli operatori finanziari (banche, carte di credito, ecc.).Quali documenti sono obbligatori per il Booking?
+» fondamentale allegare la tabella di costruzione preventivo compilata in ogni sua parte. Inoltre, deve essere compilato un modulo di prenotazione per ogni singolo servizio inserito nel pacchetto.Come si calcola l'acconto per un viaggio in organizzazione?L'acconto deve includere:100% dei servizi non rimborsabili o a pagamento immediato.Quote di gestione pratica e quote assicurative.Il 25% sul restante importo della pratica.4. Suddivisione del Margine e ProvvigioniCome viene suddiviso il guadagno (margine) della pratica?Il margine totale viene diviso in due quote distinte:Margine di Vendita (55%): suddiviso tra promotore di vendita (50%), promotore di riferimento (12,5%) e sede (37,5%).Margine di Organizzazione - QO (45%): assegnato per il ruolo di PO, suddiviso al 60% al promotore organizzatore e al 40% alla sede.Quando viene accreditata la provvigione QO?
+Il costo della QO viene generato in ETgest quando la pratica passa allo stato "saldato". La provvigione effettiva per il PO viene assegnata automaticamente il giorno di rientro del viaggio, diventando fatturabile nel mese di conclusione del viaggio.La responsabilit‡ del PO finisce al rientro del cliente?
+No. La responsabilit‡ continua anche dopo il rientro per gestire eventuali reclami o richieste di rimborso entro i termini di legge.
